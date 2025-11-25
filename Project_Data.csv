@@ -1,0 +1,26 @@
+﻿Node,Description,"Coordinates (x,y)"
+WS0,Water Station 0,"(0,0)"
+WS1,Water Station 1,"(3, 4)"
+WS2,Water Station 2,"(5, 1)"
+WS3,Water Station 3,"(9, 6)"
+WS4,Water Station 4,"(7, 10)"
+WS5,Water Station 5,"(12, 4)"
+,,
+,,
+Distance (Cost),,
+From ,To,Cost
+WS0,WS1,5
+WS0,WS2,5.1
+WS0,WS3,10.8
+WS0,WS4,12.2
+WS0,WS5,12.6
+WS1,WS2,3.6
+WS1,WS3,6.4
+WS1,WS4,8.5
+WS1,WS5,9.2
+WS2,WS3,5.8
+WS2,WS4,9.1
+WS2,WS5,7.1
+WS3,WS4,4.5
+WS3,WS5,3.6
+WS4,WS5,7.2
